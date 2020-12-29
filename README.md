@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Android.
 - 🌱 I’m currently learning Laravel.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajKamani)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RajKamani)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **RajKamani/RajKamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
