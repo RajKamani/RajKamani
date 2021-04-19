@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Android.
-- 🌱 I’m currently learning Laravel.
+- 🌱 I’m currently learning MERN and Laravel.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RajKamani&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
