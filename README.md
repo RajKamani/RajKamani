@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://www.linkedin.com/in/rajkamani/"><img src="https://indyme.com/wp-content/uploads/2017/07/LinkedIn-Icon.png" height=30 width=35></a>&emsp;
 - 🔭 I’m currently working on Android.
 - 🌱 I’m currently learning MERN and Laravel.
 
