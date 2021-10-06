@@ -1,5 +1,6 @@
 ### Hi there 👋
 <a href="https://www.linkedin.com/in/rajkamani/"><img src="https://indyme.com/wp-content/uploads/2017/07/LinkedIn-Icon.png" height=30 width=35></a>&emsp;
+<br>
 <a href="https://github.com/rajkamani">![](https://komarev.com/ghpvc/?username=rajkamani&color=blue)</a>
 - 🔭 I’m currently working on Android.
 - 🌱 I’m currently learning MERN and Laravel.
